@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Button, StyleSheet } from 'react-native';
 import notifee, { AndroidImportance, EventType } from '@notifee/react-native';
-
+//vai aparecer no github
 export default function NotifeeDemo() {
 
   // 1. Ouvir interações (cliques nos botões da notificação)
